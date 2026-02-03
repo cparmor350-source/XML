@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mangas>
-    <manga>
-        <titulo>Dragon Ball</titulo>
-        <autor>Akira Toriyama</autor>
-        <genero>Acción, Aventura, Artes marciales</genero>
-        <editorial>Shueisha</editorial>
-        <anio_publicacion>1984</anio_publicacion>
-    </manga>
+<m:coleccionMangas xmlns:m="http://www.mangas.com/schema">
+    
+    <m:manga>
+        <m:titulo>Dragon Ball</m:titulo>
+        <m:autor>Akira Toriyama</m:autor>
+        <m:genero>Acción, Aventura, Artes marciales</m:genero>
+        <m:editorial>Shueisha</m:editorial>
+        <m:anioPublicacion>1984</m:anioPublicacion>
+    </m:manga>
 
-    <manga>
-        <titulo>One Piece</titulo>
-        <autor>Eiichiro Oda</autor>
-        <genero>Aventura, Fantasía, Acción</genero>
-        <editorial>Shueisha</editorial>
-        <anio_publicacion>1997</anio_publicacion>
-    </manga>
-</mangas>
+    <m:manga>
+        <m:titulo>One Piece</m:titulo>
+        <m:autor>Eiichiro Oda</m:autor>
+        <m:genero>Aventura, Fantasía, Acción</m:genero>
+        <m:editorial>Shueisha</m:editorial>
+        <m:anioPublicacion>1997</m:anioPublicacion>
+    </m:manga>
+
+</m:coleccionMangas>
