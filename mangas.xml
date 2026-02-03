@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mangas>
+    <manga>
+        <titulo>Dragon Ball</titulo>
+        <autor>Akira Toriyama</autor>
+        <genero>Acción, Aventura, Artes marciales</genero>
+        <editorial>Shueisha</editorial>
+        <anio_publicacion>1984</anio_publicacion>
+    </manga>
+
+    <manga>
+        <titulo>One Piece</titulo>
+        <autor>Eiichiro Oda</autor>
+        <genero>Aventura, Fantasía, Acción</genero>
+        <editorial>Shueisha</editorial>
+        <anio_publicacion>1997</anio_publicacion>
+    </manga>
+</mangas>
